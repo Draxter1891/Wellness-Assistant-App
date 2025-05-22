@@ -1,4 +1,58 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Baymax 🩺
+
+**Baymax** is a health and wellness-focused React Native CLI app that acts like a personal assistant—providing hydration reminders, pedometer tracking, motivational jokes, medical advice, and more—all powered by **Text-to-Speech (TTS)** for a hands-free experience.
+
+This app is built using [**React Native CLI**](https://reactnative.dev), with features integrated through powerful libraries and APIs to enhance user interaction and wellness.
+
+---
+
+## 🚀 Features
+
+- 🔔 **Push Notifications**: Receive timely reminders and alerts for hydration and wellness.
+- 💧 **Water Hydration Tracker**: Stay on top of your daily water intake goals.
+- 🚶‍♂️ **Pedometer**: Track your daily step count to keep moving and stay active.
+- 😂 **Jokes Generator**: Get random, fun jokes to brighten your day.
+- 🩺 **Medical Advice**: Receive helpful medical insights and health tips.
+- 🕑 **Hydration Reminders**: Automatically notifies users to stay hydrated throughout the day.
+- 🗣️ **Text-to-Speech Integration**: Every interaction is voiced out for accessibility and a hands-free experience.
+
+---
+
+## 📦 Packages Used
+
+Below is the list of all the key packages and libraries used in the development of **Baymax**:
+
+- `@dongminyu/react-native-step-counter` – Step counting and pedometer functionality.
+- `@google/generative-ai` – AI integration for generating content and medical suggestions.
+- `@notifee/react-native` – Advanced local notification handling.
+- `@react-native-community/blur` – Blur view effects for enhanced UI.
+- `@react-native-firebase/app` – Firebase core setup.
+- `@react-native-firebase/messaging` – Push notifications via Firebase Cloud Messaging (FCM).
+- `@react-navigation/native` – Navigation container for routing.
+- `@react-navigation/native-stack` – Native stack navigator.
+- `axios` – HTTP client for API requests.
+- `lottie-react-native` – Smooth and attractive animations.
+- `react` – Core React library.
+- `react-native` – Core React Native framework.
+- `react-native-circular-progress-indicator` – Circular progress indicator for hydration progress or step goals.
+- `react-native-gesture-handler` – Gesture handling for interactive components.
+- `react-native-linear-gradient` – Linear gradient backgrounds and designs.
+- `react-native-markdown-display` – Display formatted markdown content (e.g., advice).
+- `react-native-mmkv` – Super fast key-value storage.
+- `react-native-reanimated` – Advanced animations and transitions.
+- `react-native-responsive-fontsize` – Font scaling across different screen sizes.
+- `react-native-safe-area-context` – Handle safe area padding for all devices.
+- `react-native-screens` – Native screen optimizations.
+- `react-native-sound-player` – Play audio notifications and effects.
+- `react-native-svg` – SVG rendering for graphics and charts.
+- `react-native-svg-transformer` – Use `.svg` files as React components.
+- `react-native-tts` – Text-to-speech integration.
+- `react-native-vector-icons` – Icon support across platforms.
+- `zustand` – Lightweight state management.
+
+---
+
+
 
 # Getting Started
 
